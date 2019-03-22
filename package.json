@@ -17,6 +17,12 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^4.0.7"
+    "electron-rebuild": "^1.8.4"
+  },
+  "dependencies": {
+    "2015": "0.0.1",
+    "easy-monitor": "^2.2.7",
+    "heapdump": "^0.3.12",
+    "v8-profiler-next": "^1.0.0"
   }
 }
